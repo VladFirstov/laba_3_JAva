@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+C:\Users\vladf\Desktop\PCP-main\PCP_3\PCP_3_Ada\default.gpr
+20230510192306 4f2ff70c2c5950d2e5729b4f8ed137b5
+[BOUND OBJECT FILES]
+C:\Users\vladf\Desktop\PCP-main\PCP_3\PCP_3_Ada\obj\main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-LC:\Users\vladf\Desktop\PCP-main\PCP_3\PCP_3_Ada\obj\
+-LC:\Users\vladf\Desktop\PCP-main\PCP_3\PCP_3_Ada\obj\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
